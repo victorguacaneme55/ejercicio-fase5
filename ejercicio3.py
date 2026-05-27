@@ -2,6 +2,7 @@
 #  Fundamentos de Programación - UNAD
 #  Fase 5 - Evaluación Final POA
 #  Problema 3: Auditoría de Inventario
+#  Estudiante: [VICTOR GUACANEME]
 
 # ***
 # MATRIZ DE INVENTARIO
